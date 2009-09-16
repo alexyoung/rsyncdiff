@@ -1,0 +1,9 @@
+This is a simple tool for running diffs against local and remote code.  It uses rysnc so it can get all the creations, deletions and updates.
+
+Run it like this:
+
+<code>rsyncdiff server:/u/apps/myapp/current/app app/</code>
+
+!http://dl.getdropbox.com/u/221414/github/rsync_diff.png!
+
+It'll use <code>colordiff</code> if it's installed.
