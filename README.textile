@@ -10,6 +10,8 @@ It'll use <code>colordiff</code> if it's installed.
 
 h3. Installation
 
+This gem is hosted on "gemcutter":http://gemcutter.org
+
 Install with:
 
-<code>gem install alexyoung-rsyncdiff</code>
+<code>gem install rsyncdiff</code>
